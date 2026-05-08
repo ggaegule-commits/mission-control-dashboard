@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-07T20:40:54.997Z",
+  "entries": {
+    "memory:memory/2026-05-08.md:1:10": {
+      "key": "memory:memory/2026-05-08.md:1:10",
+      "path": "memory/2026-05-08.md",
+      "startLine": 1,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "# 2026-05-08 메모 ## 아침 5시 30분 요청 처리 - 일정 확인: 오늘의 중요한 일정 없음 (아직 확인 중) - 날씨 확인: 진행 예정 - 메모/요청 사항: 없음 - 기타 알림: 없음 ## 추가 사항 - 아침 요청 처리 완료 후 사용자에게 보고 예정.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5463656947016715,
+      "maxScore": 0.5463656947016715,
+      "firstRecalledAt": "2026-05-07T20:40:54.997Z",
+      "lastRecalledAt": "2026-05-07T20:40:54.997Z",
+      "queryHashes": [
+        "ba858db47540"
+      ],
+      "recallDays": [
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "메모/요청",
+        "메모",
+        "아침",
+        "요청",
+        "처리",
+        "일정",
+        "확인",
+        "오늘의"
+      ]
+    }
+  }
+}

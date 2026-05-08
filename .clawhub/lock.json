@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "mission-control": {
+      "version": "2.3.1",
+      "installedAt": 1777208103258
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1777905942408
+    },
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1777941794062
+    }
+  }
+}
